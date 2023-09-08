@@ -5,5 +5,7 @@ public class ContactPage {
     // Instagram
     // snapChat
     // viber
+   // YouTube
+    // email
 
 }
